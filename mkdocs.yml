@@ -1,0 +1,30 @@
+site_name: Unterrichtsunterlagen Demo
+site_description: MkDocs + Material + MathJax + Obsidian-Workflow
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.tasklist:
+      custom_checkbox: true
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+nav:
+  - Start: index.md
+  - Inhalte:
+      - Theorie: content/theory/waermeausdehnung.md
+      - Aufgaben: content/tasks/waermeausdehnung_aufgaben.md
