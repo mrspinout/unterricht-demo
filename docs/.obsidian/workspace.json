@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "content/theory/waermeausdehnung.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "waermeausdehnung"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "content/theory/waermeausdehnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for waermeausdehnung"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "content/theory/waermeausdehnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from waermeausdehnung"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "content/theory/waermeausdehnung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of waermeausdehnung"
             }
           }
         ]
@@ -184,11 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6370be053b661e76",
+  "active": "3310f8b68696b2bb",
   "lastOpenFiles": [
-    "workspace/2025-10-06.md",
     "index.md",
-    "content/theory/waermeausdehnung 1.md",
+    "content/theory/waermeausdehnung1.md",
+    "workspace/2025-10-06.md",
     "content/theory/waermeausdehnung.md",
     "workspace/Untitled.base",
     "workspace/Untitled.canvas",
