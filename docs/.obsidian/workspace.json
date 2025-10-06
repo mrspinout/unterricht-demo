@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workspace/2025-10-06.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-06"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workspace/2025-10-06.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-06"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workspace/2025-10-06.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-06"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workspace/2025-10-06.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-06"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "6370be053b661e76",
   "lastOpenFiles": [
-    "workspace/index.md",
+    "workspace/2025-10-06.md",
+    "content/index.md",
     "content/theory/waermeausdehnung 1.md",
     "content/theory/waermeausdehnung.md",
     "workspace/Untitled.base",
     "workspace/Untitled.canvas",
     "workspace/3.4.1 Wärmelehre.md",
-    "workspace/2025-10-06.md",
     "content/tasks/waermeausdehnung_aufgaben.md",
     "workspace"
   ]
